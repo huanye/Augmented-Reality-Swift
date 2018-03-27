@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  scenekit-arkit-creating-a-scene
 //
-//  Created by Christopher Arriola on 8/11/17.
-//  Copyright © 2017 Udacity. All rights reserved.
-//
 
 import UIKit
 import SceneKit
